@@ -1,5 +1,5 @@
-﻿# Wikipedia
-# Wikipedia
+
+### Wikipedia
 
 This task is focused on how data size affects the amount of time queries take to run and how valuable tools like SQL can be to data analysts.
 
